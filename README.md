@@ -28,7 +28,6 @@ const adeenMuhtada = {
     tools: ["Git/GitHub"]
   },
   launchedProjects: [
-    "CareerHub Digital Job Portal",
     "FAST Security Information Management System",
     "Tank 1990 Survival Scout"
   ],
