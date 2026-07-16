@@ -27,9 +27,6 @@ const adeenMuhtada = {
     currentlyLearning: ["MERN Stack (MongoDB, Express, React, Node.js)"],
     designAndTools: ["Canva (UI/UX Layouts)", "Git/GitHub"]
   },
-  leadership: {
-    roles: ["Deputy Head Girl (2021-2022)", "Prefect (2022-2023)"]
-  },
   projects: [
     "SecureForce Management System (IMS) V4.0",
     "Tank 1990 Survival Scout Game"
@@ -45,3 +42,38 @@ const adeenMuhtada = {
   status: "Expanding full stack capabilities and shifting towards MERN development",
   openTo: ["Full Stack Development Roles", "Internships", "Collaborations"]
 };
+<div align="center">
+
+### Tech Stack
+
+#### Languages
+![C](https://img.shields.io/badge/C-D4A5B8?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-D4A5B8?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-D4A5B8?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-D4A5B8?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-D4A5B8?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-D4A5B8?style=for-the-badge&logo=sqlite&logoColor=white)
+
+#### Web Frontend & UI
+![HTML5](https://img.shields.io/badge/HTML5-D4A5B8?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-D4A5B8?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-D4A5B8?style=for-the-badge&logo=javascript&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-D4A5B8?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+#### Databases & Desktop Frameworks
+![MySQL](https://img.shields.io/badge/MySQL-D4A5B8?style=for-the-badge&logo=mysql&logoColor=white)
+![Windows Forms](https://img.shields.io/badge/Windows--Forms-D4A5B8?style=for-the-badge&logo=windows&logoColor=white)
+
+#### Learning Stack (MERN)
+![MongoDB](https://img.shields.io/badge/MongoDB-D4A5B8?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-D4A5B8?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-D4A5B8?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-D4A5B8?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+#### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-D4A5B8?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-D4A5B8?style=for-the-badge&logo=github&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-D4A5B8?style=for-the-badge&logo=canva&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-D4A5B8?style=for-the-badge&logo=wordpress&logoColor=white)
+
+</div>
