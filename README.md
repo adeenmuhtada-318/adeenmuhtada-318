@@ -55,68 +55,6 @@ const adeenMuhtada = {
 
 <br/>
 
-## 🚀 Featured Projects
-
-### 🛡️ SecureForce Management System (IMS) V4.0
-
-> A modular operational control suite to manage guard registries, shift scheduling, and payroll fines.
-
-<div align="center">
-  <img src="assets/secureforce-preview.png" alt="SecureForce Management System Preview" width="700"/>
-</div>
-
-> 📸 *Add a screenshot of the app to `assets/secureforce-preview.png` in your repo — this path is a placeholder until the image exists.*
-
-| Layer | Technology |
-|---|---|
-| Language | C# |
-| UI Framework | C# Windows Forms |
-| Database | MySQL |
-
-🔗 [Code](https://github.com/adeenmuhtada-318/IMS)
-
-<br/>
-
-### 🎮 Tank 1990 Survival Scout Game
-
-> A customized WinForms tactical survival desktop game engineered using C# graphics and collection mechanics.
-
-<div align="center">
-  <img src="assets/tank1990-preview.png" alt="Tank 1990 Survival Scout Preview" width="700"/>
-</div>
-
-> 📸 *Add a screenshot of the app to `assets/tank1990-preview.png` in your repo — this path is a placeholder until the image exists.*
-
-| Layer | Technology |
-|---|---|
-| Language | C# |
-| Graphics | C# GDI+ Graphics |
-| UI Framework | C# Windows Forms |
-
-🔗 [Code](https://github.com/adeenmuhtada-318/TankGame)
-
-<br/>
-
-### 💼 CareerHub Digital Job Portal
-
-> A digital recruitment portal focused on relational database structures, user queries, and web layouts.
-
-<div align="center">
-  <img src="assets/careerhub-preview.png" alt="CareerHub Digital Job Portal Preview" width="700"/>
-</div>
-
-> 📸 *Add a screenshot of the app to `assets/careerhub-preview.png` in your repo — this path is a placeholder until the image exists.*
-
-| Layer | Technology |
-|---|---|
-| Front-end | HTML, CSS, JavaScript |
-| Backend | PHP |
-| Database | SQL |
-
-🔗 [Repo coming soon](https://github.com/adeenmuhtada-318) *(not yet published — link points to profile until it's live)*
-
-<br/>
-
 ## 🛠️ Tech Stack
 
 **Languages**
@@ -158,36 +96,6 @@ const adeenMuhtada = {
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
 
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adeenmuhtada-318&show_icons=true&theme=nord&border_color=D4A5B8&title_color=D4A5B8&icon_color=D4A5B8&text_color=ffffff&hide_border=false" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeenmuhtada-318&layout=compact&theme=nord&border_color=D4A5B8&title_color=D4A5B8&text_color=ffffff&hide_border=false" alt="Top Languages" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=adeenmuhtada-318&theme=nord&border=D4A5B8&ring=D4A5B8&fire=D4A5B8&currStreakLabel=D4A5B8" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adeenmuhtada-318&theme=nord&no-frame=true&no-bg=true&column=7" alt="Trophies"/>
-</div>
-
-<br/>
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adeenmuhtada-318&theme=nord&bg_color=00000000&color=D4A5B8&line=D4A5B8&point=ffffff&hide_border=true" alt="Activity Graph"/>
-</div>
-
-<br/>
 
 ## 📫 Connect With Me
 
